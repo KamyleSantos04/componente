@@ -1,0 +1,30 @@
+.API{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(235, 235, 235);
+    width: 500px;
+    height: 200px;
+    margin-left: 395px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+
+
+    .geral{
+    width: 500px;
+    height: 400px;
+    }
+
+    .geral button{
+        margin-left: 10px;
+    }
+
+    h1{
+        color: rgb(231, 43, 175);
+    }
+    
+
+
+}
